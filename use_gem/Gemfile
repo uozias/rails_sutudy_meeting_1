@@ -1,0 +1,5 @@
+
+source 'https://rubygems.org'
+gem 'xpath'
+gem 'hello_gem', path: ‘/Users/xxxx/Desktop/hello_gem'
+
